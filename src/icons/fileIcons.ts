@@ -1910,6 +1910,10 @@ export const fileIcons: FileIcons = {
         '.svgrrc.json',
       ],
     },
+    {
+      name: 'sgdk',
+      fileNames: ['sega.s'],
+    },
     { name: 'rome', fileNames: ['rome.json'] },
     { name: 'cypress', fileNames: ['cypress.json', 'cypress.env.json'] },
     { name: 'siyuan', fileExtensions: ['sy'] },
